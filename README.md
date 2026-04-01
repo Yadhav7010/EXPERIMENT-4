@@ -22,20 +22,6 @@ To synthesize tungsten oxide (WO₃) nanoparticles using the hydrothermal method
 - Magnetic stirrer  
 - Autoclave  
 - Hot air oven  
-
----
-
-## Formula
-
-\[
-W = N \times e \times l
-\]
-
-Where:
-- **N** = Normality  
-- **e** = Equivalent weight  
-- **l** = Volume (in liters)  
-
 ---
 
 ## Procedure
@@ -64,11 +50,7 @@ Where:
 8. **Calcination**  
    Calcine the precipitate at 500°C for 5 hours to obtain WO₃ nanoparticles.
 
----
 
-## Calculation
-
-(Use the formula: W = N × e × l as required)
 
 ---
 
